@@ -1,2 +1,2 @@
 # neural-netting
-Some neural net programs 
+Run as .py
